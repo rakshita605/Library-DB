@@ -5,39 +5,29 @@ Features:
 1.Book Cataloging:
 
 Adding, updating, and deleting book records.
-
 Categorizing books by genres, authors, and publication dates.
-
 Searching and filtering books based on various criteria.
 
 2.Member Management:
 
 Registering new members.
-
 Maintaining member information and history.
-
 Issuing and renewing library membership.
 
 3.Transaction Handling:
 
 Recording book borrow and return transactions.
-
 Tracking due dates and overdue books.
-
 Generating transaction reports for analysis.
 
 4.User Interface:
 
 A user-friendly interface for librarians and members.
-
 Secure login and authentication system.
-
 Real-time updates and notifications.
 
 Expected Outcomes:
 
 Improved efficiency in managing library resources.
-
 Reduced errors in record-keeping.
-
 Enhanced user experience for librarians and members.
